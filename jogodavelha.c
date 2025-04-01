@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 //#include <confio.h>
-#include "myheader/jogar.h"
+#include "jogar.h"
 
 int main(void)
 {
